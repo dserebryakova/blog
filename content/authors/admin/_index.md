@@ -70,15 +70,7 @@ education:
 
       Courses included:
       - 
-  - area: 
-    institution: 
-    date_start: 
-    date_end: 
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - 
+
 work:
   - position: 
     company_name: 
