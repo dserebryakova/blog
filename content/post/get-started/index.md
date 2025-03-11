@@ -10,15 +10,14 @@ image:
 
 authors:
   - admin
-  - Ted
+  - Дарья Серебрякова
 
 tags:
   - Academic
-  - Hugo Blox
+  - Git
   - Markdown
 ---
-
-Welcome 👋
+👋
 
 {{< toc mobile_only=true is_open=true >}}
 
