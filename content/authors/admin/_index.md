@@ -11,7 +11,7 @@ last_name: Серебрякова
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cars
+  - Cooking
+  - Sleeping
 
 education:
   - area: Компьютерные и информационные науки
@@ -70,6 +70,15 @@ education:
 
       Courses included:
       - 
+experiences:
+  - title: Студент
+    company: РУДН
+    location: Москва
+    date_start: "2024-09-01"
+    date_end: "2028-08-31"
+    summary: |
+        Специализация: компьютерные и информационные науки.
+        Основные предметы: программирование, базы данных
 
 work:
   - position: 
@@ -94,36 +103,28 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
-        description: ''
+      - name: CooKing
+        description: 'Готовлю потрясающие торты и вкуснейший плов'
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+        icon: cake
+      - name: Knitting
+        description: 'Вяжу крутые игрушки крючком, принимаю заказы'
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: gift
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Cooking
-        description: ''
+      - name: Speaking
+        description: 'Люблю болтать, делаю это даже во сне'
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+        icon: camera
+      - name: Sport
+        description: 'Предпочитаю много физической активности, хожу в зал'
         percent: 100
         icon: cat
-      - name: Knitting
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
@@ -138,28 +139,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 
-    url: 
-    date: 
-    awarder: 
-    icon: 
+  - title: Историческая антропология
+    url: https://stepik.org/course/Историческая-антропология-720/
+    date: '2025-02-01'
+    awarder: Stepik
     summary: |
-      
-  - title: 
-    url: 
-    date: 
-    awarder: 
-    icon: 
-    summary: |
-      Learned:
-      - 
-  - title: 
-    url: 
-    certificate_url:
-    date: 
-    awarder: 
-    icon: 
-    summary: |
+        Прошла курс по исторической антропологии, получила сертификат
       
 ---
 
